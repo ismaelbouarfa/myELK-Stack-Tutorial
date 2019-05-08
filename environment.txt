@@ -1,0 +1,7 @@
+
+Oracle Virtual Box Virtual Machine with Ubuntu Server 16.04
+RAM: 2048 MB, Memory 20: GB, CPU: 1
+Sudo / root user
+Oracle Virtual Box Virtual Machine with Ubuntu Client 16.04
+RAM: 2048 MB, Memory 10: GB, CPU: 1
+Network configuration for the VM: Bridge mode
