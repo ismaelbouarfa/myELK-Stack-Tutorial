@@ -1,9 +1,4 @@
 # myELK-Stack-Tutorial
 Creating my personal ELK Stack Server
 
-
-
-Step 0: Install Java
-
-ElasticSearch and Logstash currently require version 8 or higher of Java.
-The tools are then downloaded with the Apt commands.
+Check the WIKI !
